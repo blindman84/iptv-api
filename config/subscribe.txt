@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://iptv.yang-1989.eu.org/m3u/Sport.m3u
+https://iptv.yang-1989.eu.org/m3u/Gather.m3u
 
 # https://garyshare.sharewithyou.dpdns.org/mylist.m3u
 
